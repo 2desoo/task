@@ -1,8 +1,8 @@
 import java.util.Objects;
 
 public class Student {
-    String name;
-    int age;
+    private String name;
+    private int age;
 
     public Student(String name, int age) {
         this.name = name;
